@@ -4,7 +4,7 @@
 ![example_app.png](https://bitbucket.org/TheNextBigFin/androidchallenge/raw/master/example_app.png)
 
 
-Sua sprint começou e você precisa desenvolver um aplicativo que possibilite as pessoas acompanharem a cotação de Criptomoedas em tempo real utilizando as api's do CoinCap. 
+#### Sua sprint começou e você precisa desenvolver um aplicativo que possibilite as pessoas acompanharem a cotação de Criptomoedas em tempo real utilizando as api's do CoinCap. 
 
 ### O Aplicativo:
 

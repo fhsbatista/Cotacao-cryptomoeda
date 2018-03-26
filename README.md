@@ -8,7 +8,7 @@
 
 ### O Aplicativo:
 
-#### Crie uma lista com todas as Criptomoedas do Mercado. Cada item dessa lista deve conter:
+#### Crie uma lista com todas as Criptomoedas disponíveis no CoinCap. Cada item dessa lista deve conter:
 * Nome
 * Símbolo
 * Cotação atual
